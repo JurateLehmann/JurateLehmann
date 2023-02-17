@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+⚡ Fun fact: **least of all I care about 'building my brand'.**
+I am not to pretend that styling my github will make me a good developer. I like to problem solve, and to focus on practical, useful solutions that make someone's life easier. 
+
+
 <!--
 **JurateLehmann/JurateLehmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
